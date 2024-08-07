@@ -1,0 +1,6 @@
+## Title: HelloWorldAddon
+## Author: yotedge
+## APIVersion: 101042
+## https://wiki.esoui.com/Writing_your_first_addon
+
+HelloWorldAddon.lua
